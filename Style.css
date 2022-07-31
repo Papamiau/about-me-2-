@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: roboto;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(img10.jpeg);
+  text-align: center;
+  padding: 30px;
+  background-size: cover;
+  background-position: center;
+}
+h2 {
+  text-transform: uppercase;
+  font-size: 35px;
+  font-weight: normal;
+  letter-spacing: 10px;
+  word-spacing: 5px;
+  line-height: 50px;
+  color: burlywood;
+}
+h4 {
+  text-align: left;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  word-spacing: 5px;
+}
+
+p {
+  background-image: url(img11.jpeg);
+  color: white;
+  opacity: 0.6;
+  text-shadow: 10px 10px 5px black;
+  margin: left;
+  padding: 30px;
+  border: 10px solid black;
+  border-style: solid;
+  border-color: rgb(22, 41, 66, 0.3);
+  border-top: 5px solid black;
+  line-height: 30px;
+  text-align: left;
+  border-radius: 4px;
+  max-width: 800px;
+}
+
+.headings {
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.image {
+  width: 300px;
+  height: 300px;
+  background-color: #193b6e;
+  background-image: url(img12.jpeg);
+  border-radius: 20px;
+  background-size: cover;
+  background-position: center;
+  border: 20px black transparent;
+  box-shadow: 10px 5px 10px;
+  margin: 30px auto;
+  filter: blur(1px);
+  float: left;
+}
+
+.image1 {
+  width: 300px;
+  height: 300px;
+  background-color: #193b6e;
+  background-image: url(img13.jpeg);
+  border-radius: 20px;
+  background-size: cover;
+  background-position: center;
+  border: 20px black transparent;
+  box-shadow: 10px 5px 10px;
+  margin: 30px auto;
+  float: left;
+}
+.image2 {
+  width: 300px;
+  height: 300px;
+  background-color: #193b6e;
+  background-image: url(img14.jpeg);
+  border-radius: 20px;
+  background-size: cover;
+  background-position: center;
+  border: 20px black transparent;
+  box-shadow: 10px 5px 10px;
+  margin: 30px auto;
+  filter: blur(1px);
+  float: left;
+}
+.image3 {
+  width: 400px;
+  height: 400px;
+  background-image: url(png1.png);
+  background-size: cover;
+  background-position: center;
+  filter: blur(1px);
+  float: right;
+}
